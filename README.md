@@ -1,4 +1,4 @@
-# Atelier Interiors — Premium Demo
+# Atelier Interiors
 
 **Live:** https://atelier-interior.anshikami7890.workers.dev/
 
@@ -8,7 +8,6 @@
 
 | | |
 |---|---|
-| **Package** | Premium — *"A conversion-focused website to support business growth."* |
 | **Frontend** | React 18 + React Router 6 (Vite 5) |
 | **Backend** | Cloudflare Worker (JavaScript) |
 | **Database** | Cloudflare D1 (consultations, enquiries, subscribers) |
@@ -25,8 +24,8 @@ Contact.
 That's **15 fixed pages**; the **blog posts** (`/blog/:slug`) are Blog/CMS content
 on top. (FAQ is a section on Contact.)
 
-### Premium-tier features included
-- **Premium UI/UX** — Fraunces + Jost, scroll animations, dark process section
+### Tier features included
+- **UI/UX** — Fraunces + Jost, scroll animations, dark process section
 - **Advanced landing pages** — each service page follows *image → description →
   process → CTA → consultation form*
 - **Booking / enquiry workflow** — a 3-step consultation wizard with a progress
