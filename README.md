@@ -1,8 +1,5 @@
 # Atelier Interiors — Premium Demo
 
-A demo of the **Premium package**: a **business-growth website** for an interior
-design studio.
-
 **Live:** https://atelier-interior.anshikami7890.workers.dev/
 
 ---
